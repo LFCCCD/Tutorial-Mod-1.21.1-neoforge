@@ -1,7 +1,12 @@
 {
-  "itemGroup.tutorial_mod": "Example Mod Tab",
-  "block.tutorial_mod.example_block": "Example Block",
-  "item.tutorial_mod.example_item": "Example Item",
+  "item.tutorial_mod.bismuth" : "Bismuth",
+  "item.tutorial_mod.raw_bismuth" : "Raw Bismuth",
+  "block.tutorial_mod.bismuth_block": "Block of Bismuth",
+  "block.tutorial_mod.bismuth_ore": "Bismuth Ore",
+  "block.tutorial_mod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
+
+  "creativetab.tutorialmod.bismuth_items": "Bismuth Items",
+  "creativetab.tutorialmod.bismuth_blocks": "Bismuth Blocks",
 
   "tutorial_mod.configuration.title": "Tutorial Mod Configs",
   "tutorial_mod.configuration.section.tutorial_mod.common.toml": "Tutorial Mod Configs",

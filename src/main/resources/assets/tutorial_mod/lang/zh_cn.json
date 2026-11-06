@@ -1,0 +1,18 @@
+{
+  "item.tutorial_mod.bismuth" : "铋",
+  "item.tutorial_mod.raw_bismuth" : "粗铋",
+  "block.tutorial_mod.bismuth_block": "铋块",
+  "block.tutorial_mod.bismuth_ore": "铋矿石",
+  "block.tutorial_mod.bismuth_deepslate_ore": "铋深层矿石",
+
+  "creativetab.tutorialmod.bismuth_items": "铋/物品",
+  "creativetab.tutorialmod.bismuth_blocks": "铋/方块",
+
+  "tutorial_mod.configuration.title": "教程模组配置",
+  "tutorial_mod.configuration.section.tutorial_mod.common.toml": "教程模组配置",
+  "tutorial_mod.configuration.section.tutorial_mod.common.toml.title": "教程模组配置",
+  "tutorial_mod.configuration.items": "物品列表",
+  "tutorial_mod.configuration.logDirtBlock": "记录泥土方块",
+  "tutorial_mod.configuration.magicNumberIntroduction": "魔法数字介绍文字",
+  "tutorial_mod.configuration.magicNumber": "魔法数字"
+}
